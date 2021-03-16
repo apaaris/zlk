@@ -5,10 +5,10 @@ import time
 d = Dialog(dialog="dialog")
 # Compile with nuitka
 # Zoom links
-classes = [("Dim II","97881759782","bThHT3hteVNHNVB1TDVDOWFOZ2hxZz09","https://video.ethz.ch/live/lectures/zentrum/hg/hg-g-3.html"),
+classes = [("Dim II","97881759782","","https://video.ethz.ch/live/lectures/zentrum/hg/hg-g-3.html"),
            ("Elektro I","99096506791","",""),
            ("Fertigung","tbd","",""),
-           ("Fluid I","94766840677","R041TEx2M2NWWjNjWnUxVXVYVG5yUT09",""),
+           ("Fluid I","94766840677","",""),
            ("Materials","93540395449","",""),
            ("Physics II","95954692103","",""),
            ("Thermo II","91874419806","","https://video.ethz.ch/live/lectures/zentrum/hg/hg-f-7.html")]
